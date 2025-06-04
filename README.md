@@ -27,11 +27,24 @@ The study also emphasizes the importance of left-shifted security integration in
 
 ---
 
+## 🧠 Tools and Concepts Explored
+
+This research surveys the use of:
+
+* Open Policy Agent (OPA) for policy-as-code enforcement
+* Rego for declarative security rules
+* Trivy for CVE-based container and IaC scanning
+* Sigstore for secure software supply chain verification
+* DevSecOps integration into CI/CD pipelines
+* Static analysis of Terraform and Helm charts
+
+---
+
 ## 🎓 Academic Context
 
 This research was authored as part of CNIT 581ACC: Advanced Cloud Computing during the Spring 2025 semester at Purdue University. It is a theoretical and conceptual extension of broader academic work on IoT and Digital Twin security. The insights gained here reinforce the necessity of proactive misconfiguration detection mechanisms as cloud infrastructure scales.
 
-While no codebase is provided, this repository serves as a reference and inspiration for researchers and practitioners aiming to strengthen security enforcement in CI/CD environments.
+This repository does not contain an implementation prototype, as the work is theoretical in nature and contributes conceptually to cloud-native security architecture research.
 
 ---
 

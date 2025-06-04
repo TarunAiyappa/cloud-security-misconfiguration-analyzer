@@ -14,7 +14,7 @@ The study also emphasizes the importance of left-shifted security integration in
 
 ## 📚 Repository Contents
 
-* **Research Paper:** [`CNIT_581ACC_Research_Paper_Spring25_Tarun_Aiyappa.pdf`](./CNIT_581ACC_Research_Paper_Spring25_Tarun_Aiyappa.pdf)
+* **Research Paper:** [`Research_Paper - Tarun_Aiyappa.pdf`](./Research_Paper%20-%20Tarun_Aiyappa.pdf)
 * **Key Topics:**
 
   * Security debt in cloud-native systems
